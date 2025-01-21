@@ -1,0 +1,110 @@
+{
+    "generos": [
+      {
+        "id": 1,
+        "titulo": "Acción",
+        "colorPrimario": "#586ba4",
+        "colorSecundario": "#d9e3f7"
+      },
+      {
+        "id": 2,
+        "titulo": "Aventura",
+        "colorPrimario": "#f5dd90",
+        "colorSecundario": "#fff7e0"
+      },
+      {
+        "id": 3,
+        "titulo": "Comedia",
+        "colorPrimario": "#f68e5f",
+        "colorSecundario": "#fde9df"
+      },
+      {
+        "id": 4,
+        "titulo": "Drama",
+        "colorPrimario": "#f76c5e",
+        "colorSecundario": "#ffe5e3"
+      },
+      {
+        "id": 5,
+        "titulo": "Ciencia Ficción",
+        "colorPrimario": "#0e9594",
+        "colorSecundario": "#d1f3f2"
+      },
+      {
+        "id": 6,
+        "titulo": "Suspenso",
+        "colorPrimario": "#127475",
+        "colorSecundario": "#b3e4e4"
+      },
+      {
+        "id": 7,
+        "titulo": "Terror",
+        "colorPrimario": "#4b4b4b",
+        "colorSecundario": "#d9d9d9"
+      },
+      {
+        "id": 8,
+        "titulo": "Animación",
+        "colorPrimario": "#a29bfe",
+        "colorSecundario": "#eef2ff"
+      },
+      {
+        "id": 9,
+        "titulo": "Romance",
+        "colorPrimario": "#ff9ff3",
+        "colorSecundario": "#ffe6f7"
+      }
+    ],
+    "peliculas": [
+      {
+        "titulo": "Mad Max: Fury Road",
+        "categoria": "Acción",
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273f61752303ab3820bb7fec69e",
+        "urlTrailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8&pp=ygUKbWFkIG1heCBmdQ%3D%3D",
+        "descripcion": "Un futuro postapocalíptico donde Max y Furiosa luchan por sobrevivir en un mundo dominado por caos y violencia."
+      },
+      {
+        "titulo": "Avatar",
+        "categoria": "Aventura",
+        "imagen": "https://m.media-amazon.com/images/I/71LRjSVXCGL._AC_UF894,1000_QL80_.jpg",
+        "urlTrailer": "https://www.youtube.com/watch?v=CpXJHWSXJW0&pp=ygUQYXZhdGFyIDEgdHJhaWxlcg%3D%3D",
+        "descripcion": "Un humano se aventura a un mundo alienígena llamado Pandora para protegerlo de la explotación."
+      },
+      {
+        "titulo": "Supercool",
+        "categoria": "Comedia",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/5ab249405ae0feae38fed77be63e6dffd1432cbdaeac58b8f45a15efb6a005a3.jpg",
+        "urlTrailer": "https://www.youtube.com/watch?v=b8ht6ObDlyQ&pp=ygUSc3VwZXIgY29vbCB0cmFpbGVy",
+        "descripcion": "Dos adolescentes intentan comprar alcohol para una fiesta y terminan viviendo situaciones hilarantes."
+      },
+      {
+        "titulo": "La La Land",
+        "categoria": "Drama",
+        "imagen": "https://m.media-amazon.com/images/I/719sD5y5gkL._UF1000,1000_QL80_.jpg",
+        "urlTrailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8&pp=ygUSbGEgbGEgbGFuZCB0cmFpbGVy",
+        "descripcion": "Una historia de amor entre un músico de jazz y una actriz en Los Ángeles."
+      },
+      {
+        "titulo": "Interstellar",
+        "categoria": "Ciencia Ficción",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "urlTrailer": "https://www.youtube.com/watch?v=LYS2O1nl9iM&pp=ygUUaW50ZXJzdGVsbGFyIHRyYWlsZXI%3D",
+        "descripcion": "Un grupo de astronautas viaja a través de un agujero de gusano para salvar a la humanidad."
+      },
+      {
+        "titulo": "The Conjuring",
+        "categoria": "Terror",
+        "imagen": "https://play-lh.googleusercontent.com/uw8T4dUGOiGJwEBUl2DelwdhjilcYlrL5sPmr9sAqSkPdX74s6zaMYSdUWJrSdr7AOmFlTOWc_jxT8nyMY4B",
+        "urlTrailer": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+        "descripcion": "Una familia se enfrenta a eventos paranormales en su nueva casa."
+      },
+      {
+        "titulo": "Toy Story",
+        "categoria": "Animación",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "urlTrailer": "https://www.youtube.com/watch?v=CxwTLktovTU&pp=ygURdG95IHN0b3J5IHRyYWlsZXI%3D",
+        "descripcion": "Un grupo de juguetes cobra vida y enfrenta aventuras mientras su dueño crece."
+      }
+    ]
+  }
+  
